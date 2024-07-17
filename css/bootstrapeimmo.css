@@ -1,0 +1,28 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+} */
+/* 
+img{
+    width: 90%;
+} */
+
+.w-50 {
+    margin-left: 25%;
+
+}
+.image {
+    clip-path:ellipse(33% 50%);
+}
+
+
+
+footer {
+    background-color: #808080;
+}
+
+footer .card-body {
+    background-color: #808080;
+}
+
